@@ -1,7 +1,8 @@
 repo_name: csoto09/Desktop-App
 report_id: eb92084d6dfaa74205a0a26a991f0d37
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-17T01:14:50+00:00'
+timestamp: '2024-01-05T08:37:49+00:00'
 requested_by: bernerdad
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: Golang
   description: An open source programming language that makes it easy to build simple,
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -46,6 +50,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -66,6 +72,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -75,6 +82,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -84,6 +92,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/csoto09/Desktop-App/blob/master/tools/requirements.txt
   detection_source: tools/requirements.txt
   last_updated_by: Alexey Azanov
   last_updated_on: 2021-08-18 23:33:44.000000000 Z
@@ -96,6 +105,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/csoto09/Desktop-App/blob/master/common/wintun/wintun-0.9.2/wintun.sln
   detection_source: common/wintun/wintun-0.9.2/wintun.sln
   last_updated_by: Alexey Azanov
   last_updated_on: 2021-08-18 23:33:44.000000000 Z
@@ -107,6 +117,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -117,29 +128,32 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/csoto09/Desktop-App
   detection_source: Repo Metadata
 - name: colorama
   description: Cross-platform colored terminal text
-  package_url: https://pypi.org/colorama
+  package_url: https://pypi.org/project/colorama
   license: BSD-3-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/csoto09/Desktop-App/blob/master/tools/requirements.txt
   detection_source: tools/requirements.txt
   last_updated_by: Alexey Azanov
   last_updated_on: 2021-08-18 23:33:44.000000000 Z
 - name: glob2
   description: Version of the glob module that can capture patterns and supports recursive
     wildcards
-  package_url: https://pypi.org/glob2
+  package_url: https://pypi.org/project/glob2
   license: BSD-2-Clause
   open_source: true
   hosted_saas: false
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20308/default_cf7d0f270af03dbbe2de068c96b8bcd628c98aa7.png
+  detection_source_url: https://github.com/csoto09/Desktop-App/blob/master/tools/requirements.txt
   detection_source: tools/requirements.txt
   last_updated_by: Alexey Azanov
   last_updated_on: 2021-08-18 23:33:44.000000000 Z
